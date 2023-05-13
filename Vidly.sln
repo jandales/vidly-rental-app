@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly", "Vidly\Vidly.csproj", "{D5BD3CA4-14FA-4734-91DB-0AF9E5E6CDDE}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "db", "..\..\..\..\source\repos\db\db\db.sqlproj", "{F3E7AB8D-25F8-4636-96BC-E62C4E24EEF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5BD3CA4-14FA-4734-91DB-0AF9E5E6CDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BD3CA4-14FA-4734-91DB-0AF9E5E6CDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BD3CA4-14FA-4734-91DB-0AF9E5E6CDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BD3CA4-14FA-4734-91DB-0AF9E5E6CDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E7AB8D-25F8-4636-96BC-E62C4E24EEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E7AB8D-25F8-4636-96BC-E62C4E24EEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E7AB8D-25F8-4636-96BC-E62C4E24EEF8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F3E7AB8D-25F8-4636-96BC-E62C4E24EEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E7AB8D-25F8-4636-96BC-E62C4E24EEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E7AB8D-25F8-4636-96BC-E62C4E24EEF8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FF86641-F684-439A-A9B3-9FA1668B6495}
+	EndGlobalSection
+EndGlobal

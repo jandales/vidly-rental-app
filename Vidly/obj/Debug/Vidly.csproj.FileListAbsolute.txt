@@ -1,0 +1,141 @@
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Vidly.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\csc.exe.config
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\csc.rsp
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\csi.exe
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\csi.rsp
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\vbc.rsp
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Swashbuckle.Core.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\WebActivatorEx.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Cors.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Http.Cors.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly\Vidly\bin\System.Web.Http.Cors.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Vidly.dll.config
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Vidly.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Vidly.pdb
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\csc.exe
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\csc.exe.config
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\csc.rsp
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\csi.exe
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\csi.rsp
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\System.AppContext.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\vbc.exe
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\vbc.exe.config
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\vbc.rsp
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\EntityFramework.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Swashbuckle.Core.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Cors.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Helpers.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Http.Cors.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Http.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Mvc.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Optimization.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Razor.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.WebPages.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\WebActivatorEx.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\WebGrease.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\EntityFramework.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Http.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Http.Cors.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Helpers.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Mvc.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Optimization.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.Razor.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.WebPages.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\obj\Debug\Vidly.dll
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\obj\Debug\Vidly.pdb
+C:\Users\jessa\OneDrive\Desktop\Irely\Vidly - Copy\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
